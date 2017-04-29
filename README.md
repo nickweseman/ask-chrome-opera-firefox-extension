@@ -15,7 +15,7 @@ Installation from Source Instructions:
 Opera Extension for Ask.com (formerly known as Ask Jeeves)
 
 Installation from Opera Web Store Instructions:
-1.  <App is currently pending approval>
+1.  Note:  Opera Extension is currently pending approval
 
 Installation from Source Instructions:
 1. Download "Ask Extension" folder to your computer
