@@ -12,7 +12,7 @@ Chrome Extension for Ask.com (formerly known as Ask Jeeves)
 5. Select the "Ask Extension" folder you chose above.
 
 
-Opera Extension for Ask.com (formerly known as Ask Jeeves)
+# Opera Extension for Ask.com (formerly known as Ask Jeeves)
 
 <b>Installation from Opera Web Store Instructions:</b>
 1.  Note:  Opera Extension is currently pending approval
