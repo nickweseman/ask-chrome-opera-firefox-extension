@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Ask.com Search Extension",
+  "description": "This extension will search Ask.com for a given phrase.",
+  "version": "1.0",
+
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["ask.js"]
+  },
+
+  "icons": {
+    "16": "icon-bitty.png"
+  },
+
+  "manifest_version": 2
+}
