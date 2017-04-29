@@ -2,7 +2,7 @@
 Chrome Extension for Ask.com (formerly known as Ask Jeeves)
 
 Installation via Google Chrome Web Store Instructions:
-1.  Visit: https://chrome.google.com/webstore/detail/askcom-search-extension/eifpckadbbkedodfeiddebnfelpldnab?hl=en-US&gl=US.
+1.  Visit: https://chrome.google.com/webstore/detail/askcom-search-extension/eifpckadbbkedodfeiddebnfelpldnab?hl=en-US&gl=US to install.
 
 Installation via Source Instructions:
 1. Download "Ask Extension" folder to your computer
