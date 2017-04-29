@@ -1,5 +1,4 @@
-# ask-chrome-opera-extension
-Chrome Extension for Ask.com (formerly known as Ask Jeeves)
+# Chrome Extension for Ask.com (formerly known as Ask Jeeves)
 
 <b>Installation from Google Chrome Web Store Instructions:</b>
 1.  Visit: https://chrome.google.com/webstore/detail/askcom-search-extension/eifpckadbbkedodfeiddebnfelpldnab?hl=en-US&gl=US to install.
