@@ -1,9 +1,9 @@
 # Chrome Extension for Ask.com (formerly known as Ask Jeeves)
 
-<b>Installation from Google Chrome Web Store Instructions:</b>
+## Installation from Google Chrome Web Store Instructions:
 1.  Visit: https://chrome.google.com/webstore/detail/askcom-search-extension/eifpckadbbkedodfeiddebnfelpldnab?hl=en-US&gl=US to install.
 
-<b>Installation from Source Instructions:</b>
+## Installation from Source Instructions:
 1. Download "Ask Extension" folder to your computer
 2. Open Chrome and type "chrome://extensions" into the browser url
 3. Make sure that the "Developer mode" checkbox is checked.
@@ -13,12 +13,29 @@
 
 # Opera Extension for Ask.com (formerly known as Ask Jeeves)
 
-<b>Installation from Opera Web Store Instructions:</b>
+## Installation from Opera Web Store Instructions:
 1.  Note:  Opera Extension is currently pending approval
 
-<b>Installation from Source Instructions:</b>
+## Installation from Source Instructions:
 1. Download "Ask Extension" folder to your computer
 2. Open Opera and type "opera:extensions" into the browser url
 3. Make sure that the "Developer mode" button is clicked.
 4. Click "Load unpacked extension..."
 5. Select the "Ask Extension" folder you chose above.
+
+# Firefox Extension for Ask.com (formerly known as Ask Jeeves)
+
+## Installation from Firefox Web Store Instructions:
+1.  Note:  Firefox Extension is currently pending approval
+
+## Installation from Source Instructions:
+1. Download "Ask Extension" folder to your computer
+2. Open Firefox and type "about:debugging" into the browser url
+3. Click "Load Temporary Add-on"
+4. Select the <b>"ask.js"</b> file inside the "Ask Extension" folder you chose above.
+
+### To Remove the Extension:
+1.  Click three horizontal lines button in the top right and click "Add-ons"
+2.  Find "Ask.com Search Extension" and click "Remove"
+
+
