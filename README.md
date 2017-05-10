@@ -10,6 +10,8 @@
 4. Click "Load unpacked extension..."
 5. Select the "Ask Extension" folder you chose above.
 
+<br>
+<br>
 
 # Opera Extension for Ask.com (formerly known as Ask Jeeves)
 
