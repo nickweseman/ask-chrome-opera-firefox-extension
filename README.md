@@ -25,6 +25,9 @@
 4. Click "Load unpacked extension..."
 5. Select the "Ask Extension" folder you chose above.
 
+<br>
+<br>
+
 # Firefox Extension for Ask.com (formerly known as Ask Jeeves)
 
 ## Installation from Firefox Web Store Instructions:
