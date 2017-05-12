@@ -31,7 +31,7 @@
 # Firefox Extension for Ask.com (formerly known as Ask Jeeves)
 
 ## Installation from Firefox Web Store Instructions:
-1.  Note:  Firefox Extension is currently pending approval
+1.  Visit: https://addons.mozilla.org/en-US/firefox/addon/ask-com-search-extension/ to install.
 
 ## Installation from Source Instructions:
 1. Download "Ask Extension" folder to your computer
