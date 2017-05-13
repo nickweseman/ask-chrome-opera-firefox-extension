@@ -1,4 +1,4 @@
-# Extension for Ask.com (formerly known as Ask Jeeves)
+# Search Extension for Ask.com (formerly known as Ask Jeeves)
 
 ## Chrome
 
