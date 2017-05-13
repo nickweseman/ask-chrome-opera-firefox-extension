@@ -13,21 +13,6 @@
 <br>
 <br>
 
-# Opera Extension for Ask.com (formerly known as Ask Jeeves)
-
-## Installation from Opera Web Store Instructions:
-1.  Note:  Opera Extension is currently pending approval
-
-## Installation from Source Instructions:
-1. Download "Ask Extension" folder to your computer
-2. Open Opera and type "opera:extensions" into the browser url
-3. Make sure that the "Developer mode" button is clicked.
-4. Click "Load unpacked extension..."
-5. Select the "Ask Extension" folder you chose above.
-
-<br>
-<br>
-
 # Firefox Extension for Ask.com (formerly known as Ask Jeeves)
 
 ## Installation from Firefox Web Store Instructions:
@@ -43,4 +28,17 @@
 1.  Click three horizontal lines button in the top right and click "Add-ons"
 2.  Find "Ask.com Search Extension" and click "Remove"
 
+<br>
+<br>
 
+# Opera Extension for Ask.com (formerly known as Ask Jeeves)
+
+## Installation from Opera Web Store Instructions:
+1.  Note:  Opera Extension is currently pending approval
+
+## Installation from Source Instructions:
+1. Download "Ask Extension" folder to your computer
+2. Open Opera and type "opera:extensions" into the browser url
+3. Make sure that the "Developer mode" button is clicked.
+4. Click "Load unpacked extension..."
+5. Select the "Ask Extension" folder you chose above.
